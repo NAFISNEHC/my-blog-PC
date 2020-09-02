@@ -1,0 +1,8 @@
+{
+  "short_name": "Chen blog",
+  "name": "陈思帆的个人博客",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
